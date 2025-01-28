@@ -1,0 +1,14 @@
+@startuml ディナーを作る
+title ディナーを作る
+:材料を買う;
+fork
+:カレーを作る;
+end fork
+:ポテトサラダを作る;
+fork
+:パフェを作る;
+end fork
+:食べる;
+:片づける;
+
+@enduml

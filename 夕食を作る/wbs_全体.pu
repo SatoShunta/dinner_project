@@ -1,0 +1,19 @@
+@startwbs ディナーを作る
+title ディナーを作るWBS
+
++[#Yellow] ディナーを食べる
+**[#LightBlue] カレーを作る
+***[#Yellow] 作る
+***[#Yellow] 食べる
+***[#Yellow] 片づける
+
+**[#LightBlue] ポテトサラダを作る
+***[#Yellow] 作る
+***[#Yellow] 食べる
+***[#Yellow] 片づける
+
+**[#LightBlue] パフェを作る
+***[#Yellow] 作る
+***[#Yellow] 食べる
+***[#Yellow] 片づける
+@endwbs

@@ -1,0 +1,22 @@
+@startwbs ポテトサラダを作る
+title ポテトサラダを作るWBS
+
++[#Yellow] ポテトサラダを作る
+**[#LightBlue] ジャガイモを買う
+***[#Yellow] スーパーでジャガイモを買う
+
+**[#LightBlue] ジャガイモを調理する
+***[#Yellow] ジャガイモをゆでる
+***[#Yellow] ジャガイモの皮をむく
+***[#Yellow] ジャガイモをつぶす
+
+**[#LightBlue] ほかの材料
+***[#Yellow] 玉ねぎを切る
+***[#Yellow] ニンジンを切る
+***[#Yellow] 玉ねぎとニンジンをレンジでチンする
+***[#Yellow] きゅうりを切る
+***[#Yellow] ハムを切る
+***[#Yellow] マヨネーズで和える
+***[#Yellow] 塩コショウで味を調える
+
+@endwbs
